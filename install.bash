@@ -12,7 +12,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 yes | ~/.fzf/install
 
 
-sudo apt-get upgrade -y
+#sudo apt-get upgrade -y
 wget https://github.com/neovim/neovim/releases/download/v0.10.4/nvim-linux-x86_64.tar.gz
 tar -xf nvim-linux-x86_64.tar.gz
 mv nvim-linux-x86_64 nvim
